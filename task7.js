@@ -1,6 +1,6 @@
 function isItUpperCase(){
 
-    let letter = prompt('Enter letter in any case')
+    let letter = prompt('Enter letter in any case',)
 
     if (letter == letter.toUpperCase) {
         console.log('Оууу май, большая буква!')

@@ -1,5 +1,5 @@
 function convertChars(){
-    let word = prompt('Enter your word');
+    let word = prompt('Enter your word',);
 
     let lowerCase = word.toLowerCase();
 
